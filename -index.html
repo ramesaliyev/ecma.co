@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <style>
+      * {
+        border: 0;
+        margin: 0;
+        padding: 0;
+      }
+
+      html, body {
+        width: 100%;
+        height: 100%;
+      }
+
+      .header {
+        position: fixed;
+        top: 50px;
+        left: 50px;
+        width: 325px;
+      }
+
+      .logo {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 169px;
+        height: 38px;
+        background: url('assets/logo.svg');
+      }
+
+      .email {
+        position: absolute;
+        top: -6px;
+        left: 184px;
+        width: 156px;
+        height: 29px;
+        background: url('assets/email.png');   
+      }
+
+      .color-cubes {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 1244px;
+        height: 711px;
+        background: url('assets/color-cubes.svg');
+      }
+
+      @media only screen and (max-device-width: 480px) {
+        .header {
+          position: relative;
+          left: auto;
+          margin: 0 auto;
+        }
+
+        .color-cubes {
+          top: 30px;
+          right: -540px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+        <div class="logo"></div>
+        <div class="email"></div>  
+      </div>
+      <div class="color-cubes"></div>
+    </div>
+  </body>
+</html>

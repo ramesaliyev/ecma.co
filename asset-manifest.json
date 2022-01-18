@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e3ab681.chunk.css",
+    "main.js": "/static/js/main.9b5b86b4.chunk.js",
+    "main.js.map": "/static/js/main.9b5b86b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3722fa4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3722fa4.js.map",
+    "static/js/2.aa593db5.chunk.js": "/static/js/2.aa593db5.chunk.js",
+    "static/js/2.aa593db5.chunk.js.map": "/static/js/2.aa593db5.chunk.js.map",
+    "static/js/3.fea918da.chunk.js": "/static/js/3.fea918da.chunk.js",
+    "static/js/3.fea918da.chunk.js.map": "/static/js/3.fea918da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6e3ab681.chunk.css.map": "/static/css/main.6e3ab681.chunk.css.map",
+    "static/js/2.aa593db5.chunk.js.LICENSE.txt": "/static/js/2.aa593db5.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/plus-jakarta-sans-latin-400-normal.43e0fcf9.woff",
+    "static/media/cengizhan.dad4428d.png": "/static/media/cengizhan.dad4428d.png",
+    "static/media/cihan.77ed5b44.png": "/static/media/cihan.77ed5b44.png",
+    "static/media/cloud-file.598d169b.svg": "/static/media/cloud-file.598d169b.svg",
+    "static/media/earth-server.053ba515.svg": "/static/media/earth-server.053ba515.svg",
+    "static/media/earth-web.62fe6d7c.svg": "/static/media/earth-web.62fe6d7c.svg",
+    "static/media/ebru.101ea856.png": "/static/media/ebru.101ea856.png",
+    "static/media/emrah.6b814ed1.png": "/static/media/emrah.6b814ed1.png",
+    "static/media/hero-bg.86c1cb35.svg": "/static/media/hero-bg.86c1cb35.svg",
+    "static/media/hexegon.e188765e.svg": "/static/media/hexegon.e188765e.svg",
+    "static/media/linkedin.0aeca148.svg": "/static/media/linkedin.0aeca148.svg",
+    "static/media/mesut.82ced6d0.png": "/static/media/mesut.82ced6d0.png",
+    "static/media/mustafa.37016283.png": "/static/media/mustafa.37016283.png",
+    "static/media/nihal.0facb069.png": "/static/media/nihal.0facb069.png",
+    "static/media/rames.f7d6a1a5.png": "/static/media/rames.f7d6a1a5.png",
+    "static/media/serkan.082cc85f.png": "/static/media/serkan.082cc85f.png",
+    "static/media/twitter.793d21c7.svg": "/static/media/twitter.793d21c7.svg",
+    "static/media/umit.9f0d49fc.png": "/static/media/umit.9f0d49fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3722fa4.js",
+    "static/js/2.aa593db5.chunk.js",
+    "static/css/main.6e3ab681.chunk.css",
+    "static/js/main.9b5b86b4.chunk.js"
+  ]
+}
