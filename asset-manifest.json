@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e3ab681.chunk.css",
-    "main.js": "/static/js/main.c4b55ba8.chunk.js",
-    "main.js.map": "/static/js/main.c4b55ba8.chunk.js.map",
+    "main.css": "/static/css/main.56959942.chunk.css",
+    "main.js": "/static/js/main.2026ad15.chunk.js",
+    "main.js.map": "/static/js/main.2026ad15.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3722fa4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3722fa4.js.map",
     "static/js/2.aa593db5.chunk.js": "/static/js/2.aa593db5.chunk.js",
@@ -10,12 +10,14 @@
     "static/js/3.fea918da.chunk.js": "/static/js/3.fea918da.chunk.js",
     "static/js/3.fea918da.chunk.js.map": "/static/js/3.fea918da.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6e3ab681.chunk.css.map": "/static/css/main.6e3ab681.chunk.css.map",
+    "static/css/main.56959942.chunk.css.map": "/static/css/main.56959942.chunk.css.map",
     "static/js/2.aa593db5.chunk.js.LICENSE.txt": "/static/js/2.aa593db5.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/plus-jakarta-sans-latin-400-normal.43e0fcf9.woff",
+    "static/media/api.c1fca851.svg": "/static/media/api.c1fca851.svg",
     "static/media/cengizhan.dad4428d.png": "/static/media/cengizhan.dad4428d.png",
     "static/media/cihan.77ed5b44.png": "/static/media/cihan.77ed5b44.png",
     "static/media/cloud-file.598d169b.svg": "/static/media/cloud-file.598d169b.svg",
+    "static/media/customer.0e6367fe.svg": "/static/media/customer.0e6367fe.svg",
     "static/media/earth-server.053ba515.svg": "/static/media/earth-server.053ba515.svg",
     "static/media/earth-web.62fe6d7c.svg": "/static/media/earth-web.62fe6d7c.svg",
     "static/media/ebru.101ea856.png": "/static/media/ebru.101ea856.png",
@@ -24,6 +26,7 @@
     "static/media/hexegon.e188765e.svg": "/static/media/hexegon.e188765e.svg",
     "static/media/linkedin.0aeca148.svg": "/static/media/linkedin.0aeca148.svg",
     "static/media/mesut.82ced6d0.png": "/static/media/mesut.82ced6d0.png",
+    "static/media/mobile.82199cd3.svg": "/static/media/mobile.82199cd3.svg",
     "static/media/mustafa.37016283.png": "/static/media/mustafa.37016283.png",
     "static/media/nihal.0facb069.png": "/static/media/nihal.0facb069.png",
     "static/media/rames.f7d6a1a5.png": "/static/media/rames.f7d6a1a5.png",
@@ -34,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3722fa4.js",
     "static/js/2.aa593db5.chunk.js",
-    "static/css/main.6e3ab681.chunk.css",
-    "static/js/main.c4b55ba8.chunk.js"
+    "static/css/main.56959942.chunk.css",
+    "static/js/main.2026ad15.chunk.js"
   ]
 }
