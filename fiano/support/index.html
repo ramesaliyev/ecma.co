@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiano — Support</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: #faf8f3;
+            color: #3a2e1f;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 48px 24px;
+        }
+
+        .logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 20px;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .subtitle {
+            color: #8a7a6a;
+            font-size: 15px;
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 32px;
+            margin-bottom: 12px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #e8e0d4;
+        }
+
+        p, li {
+            font-size: 15px;
+            color: #5a4a3a;
+            margin-bottom: 12px;
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-bottom: 16px;
+        }
+
+        li {
+            margin-bottom: 6px;
+        }
+
+        .faq-item {
+            background: #fff;
+            border: 1px solid #e8e0d4;
+            border-radius: 12px;
+            padding: 16px 20px;
+            margin-bottom: 12px;
+        }
+
+        .faq-item strong {
+            display: block;
+            font-size: 15px;
+            margin-bottom: 6px;
+            color: #3a2e1f;
+        }
+
+        .faq-item p {
+            margin-bottom: 0;
+            font-size: 14px;
+        }
+
+        .contact-box {
+            background: #6b5340;
+            color: #faf8f3;
+            border-radius: 12px;
+            padding: 24px;
+            margin-top: 32px;
+        }
+
+        .contact-box h2 {
+            color: #faf8f3;
+            border-bottom-color: rgba(255,255,255,0.2);
+            margin-top: 0;
+        }
+
+        .contact-box p {
+            color: #e8ddd0;
+        }
+
+        .contact-box a {
+            color: #faf8f3;
+            font-weight: 600;
+        }
+
+        .links {
+            display: flex;
+            gap: 16px;
+            margin-top: 12px;
+        }
+
+        .links a {
+            color: #6b5340;
+            font-size: 14px;
+            text-decoration: none;
+            border-bottom: 1px solid #c8b8a4;
+        }
+
+        .links a:hover {
+            border-bottom-color: #6b5340;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid #e8e0d4;
+            color: #b0a090;
+            font-size: 13px;
+        }
+
+        footer a {
+            color: #8a7a6a;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="AppIcon.png" alt="Fiano" class="logo">
+        <h1>Fiano</h1>
+        <p class="subtitle">Personal expense tracking for iOS</p>
+
+        <h2>Features</h2>
+        <ul>
+            <li>Expense &amp; income tracking with custom categories</li>
+            <li>AI-powered natural language input (on-device)</li>
+            <li>Monthly statistics &amp; category breakdowns</li>
+            <li>Savings goals tracking</li>
+            <li>Bill payment reminders with notifications</li>
+            <li>AI monthly financial summary letter</li>
+            <li>Ask questions about your expenses in natural language</li>
+            <li>CSV export</li>
+            <li>Face ID / Touch ID lock</li>
+            <li>Siri Shortcuts support</li>
+            <li>iCloud sync across devices</li>
+            <li>Multi-currency support</li>
+            <li>100% private — no analytics, no tracking, no servers</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <strong>Is my financial data safe?</strong>
+            <p>Yes. All data is stored locally on your device. If iCloud is enabled, it syncs through your personal iCloud account. We have no servers and never see your data.</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>How does the AI feature work?</strong>
+            <p>Fiano uses Apple's on-device Foundation Models (Apple Intelligence) to parse your expense descriptions in natural language. All processing happens entirely on your device — nothing is sent to external servers.</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>Which devices are supported?</strong>
+            <p>Fiano requires an iPhone running iOS 26 or later. AI features require a device that supports Apple Intelligence (iPhone 15 Pro or later).</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>Can I use Fiano without AI features?</strong>
+            <p>Absolutely. If your device doesn't support Apple Intelligence, Fiano automatically shows manual input fields. All core features work without AI.</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>How do I export my data?</strong>
+            <p>Go to Settings and use the export option to generate a CSV file of all your expenses. You can share it via email, AirDrop, or save it to Files.</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>How do I delete my data?</strong>
+            <p>You can delete individual entries by swiping or long-pressing in the app. To remove all data, delete the app from your device. If iCloud sync is enabled, this will remove data from all synced devices.</p>
+        </div>
+
+        <div class="faq-item">
+            <strong>The app isn't syncing between my devices.</strong>
+            <p>Make sure iCloud is enabled in your device Settings and that you're signed in with the same Apple Account on all devices. Fiano uses CloudKit which requires an active internet connection for sync.</p>
+        </div>
+
+        <div class="contact-box">
+            <h2>Contact Us</h2>
+            <p>Have a question, found a bug, or want to suggest a feature? We'd love to hear from you.</p>
+            <p style="margin-top: 12px;">
+                Email: <a href="mailto:support@ecma.co">support@ecma.co</a>
+            </p>
+        </div>
+
+        <div class="links" style="margin-top: 24px;">
+            <a href="https://ecma.co/fiano/privacy">Privacy Policy</a>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 <a href="https://ecma.co">Ecma Co.</a></p>
+        </footer>
+    </div>
+</body>
+</html>
